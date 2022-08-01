@@ -160,11 +160,11 @@ After the code was written, tested and functioned as designed, two screenshots w
 
 1. The first from the terminal in VS Code to show the command line input and the resulting output:
 
-![Terminal]("../module_18/challenge_18/terminal.png")
+![Terminal](https://github.com/Cryptopher2022/Challenge_18_blockchain/blob/main/images/Terminal.png)
 
 2. The second image is from the Streamlit browser that was spawned as a result of the streamlit code being written into the Python program (as briefly explained above).
 
-![Streamlit]("../module_18/challenge_18/streamlit.png")
+![Streamlit](https://github.com/Cryptopher2022/Challenge_18_blockchain/blob/main/images/Streamlit_result.png)
 
 ---
 
