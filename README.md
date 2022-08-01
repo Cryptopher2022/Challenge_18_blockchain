@@ -1,4 +1,4 @@
-# Challenge 4 Four Megafunds versus the S&P 500
+# Challenge 18 - Blockchain - Using an existing blockchain to add user friendly features
 The purpose of this Challenge 18 was to modify the code set that was generated throughout the Module by the student.  Specifically, to a functioning blockchain, several attributes were to be added.  The scenario is an example situation.  
 
 ## Background
